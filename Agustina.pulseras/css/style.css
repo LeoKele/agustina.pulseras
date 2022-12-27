@@ -1,0 +1,129 @@
+/* General */
+
+* {
+    font-family: 'Rubik', sans-serif;
+}
+
+body {
+    background-color: #e3f2fd;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%239C92AC' fill-opacity='0.43' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+main section h2 {
+    font-weight: 600;
+}
+
+
+
+.catalogo .row .producto .card {
+    border: 2px solid #CC0606;
+}
+
+
+/* Nav Bar */
+.navbar {
+    background-color: #e3f2fd; 
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%239C92AC' fill-opacity='0.43' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+.navbar-nav a {
+    color: #CC0606;
+    font-weight: 700;
+}
+
+.logo {
+    width: 150px;
+    
+}
+
+/* --- */
+
+/* --- */
+
+/* MODAL  */
+.modal-body a {
+    color: #56D062;
+    text-decoration: none;
+}   
+
+#medidas ul{
+    list-style: none;
+    padding: 0;
+}
+
+
+
+.modal-content {
+    background-color: #e3f2fd;
+    
+}
+
+.modal-title {
+    font-weight: bolder;
+}
+
+
+/* --- */
+
+/* Boton de Whatsapp */
+
+.bxl-whatsapp {
+    margin: 5px 2px;
+    border-radius: 50%;
+    background: #56D062;
+    color: white;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    opacity: .95;
+}
+
+.wsp-btn a {
+    font-size: 50px;
+}
+
+/* --- */
+
+
+
+
+/* Footer */
+
+footer {
+    background-color: #e3f2fd;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%239C92AC' fill-opacity='0.43' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer a {
+    text-decoration: none;
+    color: #000;
+}
+
+.bxl-facebook , .bxl-instagram{
+    margin-right: 2px;
+    font-size: 20px;
+    
+}
+
+.envios a {
+    color: #56D062;
+}
+
+
+footer h4{
+    color: rgb(0, 0, 0); 
+}
+
+footer p, a{
+    color: rgb(0, 0, 0);
+}
+    
+/* --- */
+
+
